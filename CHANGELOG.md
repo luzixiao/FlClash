@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.9.4 (2026-11-15)
+
+**Features**
+
+- **views** Remove disclaimer consent and tools entry (5dfae9b)
+
 ## v0.9.3 (2026-11-04)
 
 **Features**
